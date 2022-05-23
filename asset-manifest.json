@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tryunfo/static/css/main.790308b2.css",
+    "main.js": "/tryunfo/static/js/main.defa10b6.js",
+    "static/media/back.jpg": "/tryunfo/static/media/back.e42fffded2ee4fb47d22.jpg",
+    "static/media/background3.jpg": "/tryunfo/static/media/background3.0aa982150a6bc12030fd.jpg",
+    "static/media/background2.jpg": "/tryunfo/static/media/background2.45f13a8ebb928937f389.jpg",
+    "index.html": "/tryunfo/index.html",
+    "main.790308b2.css.map": "/tryunfo/static/css/main.790308b2.css.map",
+    "main.defa10b6.js.map": "/tryunfo/static/js/main.defa10b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.790308b2.css",
+    "static/js/main.defa10b6.js"
+  ]
+}
